@@ -1,0 +1,14 @@
+{
+  "host": "127.0.0.1",
+  "port": 32145,
+  "window_title_contains": "LiftCall",
+  "window_class": "",
+  "process_name": "",
+  "maximize": true,
+  "launch_pwa_on_start": true,
+  "close_pwa_on_exit": true,
+  "pwa_shortcut_path": "",
+  "allowed_origins": [
+    "https://liftcall.forge-it.eu"
+  ]
+}
